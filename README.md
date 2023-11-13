@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Ches-ctrl/ches-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi I'm Charlie 👋 </h1>
 
-Here are some ideas to get you started:
+<h2 align="left">🌱 I’m currently learning Full Stack Web Development at Le Wagon</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 You can find my current projects [here](https://linktr.ee/charliecheese).
+
+📫 If you're looking for someone to start something new with, reach out at **charles.cheesman1@gmail.com**.
+
+<h3 align="left">You can find me here 👇</h3>
+<p align="left">
+<a href="https://dev.to/chesctrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luciengeorge" height="30" width="40" /></a>
+<a href="https://twitter.com/charlescheesma1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lcueingeorge16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charliecheesman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciengeorge" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15289903/chuck12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lucien-george" height="30" width="40" /></a>
+</p>
