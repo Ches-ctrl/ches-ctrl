@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi I'm Charlie 👋 
 
-<h1 align="left">Hi I'm Charlie 👋 </h1>
-
-<h2 align="left">🌱 I’m currently learning Full Stack Web Development at Le Wagon</h2>
+<p align="left">🌱 I’m currently learning Full Stack Web Development at Le Wagon</p>
 
 👨‍💻 You can find my current projects [here](https://linktr.ee/charliecheese).
 
