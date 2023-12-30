@@ -1,8 +1,6 @@
 ### Hi I'm Charlie 👋 
 
-🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad learning Full Stack Web Dev
-
-👨‍💻 I'm currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar)
+🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad working on [Cheddar](https://github.com/Ches-ctrl/Cheddar)
 
 🚀 You can find my current projects [here](https://linktr.ee/charliecheese) and my personal site [here](https://ches-ctrl.github.io/)
 
@@ -15,7 +13,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
-
 <h3 align="left">My Toolkit:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -32,7 +29,6 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
 </p>
-
 <h3 align="left">I'm Learning:</h3>
 <p align="left">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
