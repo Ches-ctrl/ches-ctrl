@@ -1,8 +1,8 @@
 ### Hi I'm Charlie 👋 
 
-<p align="left">🌱 I’m a recent (Le Wagon)[https://www.lewagon.com/] grad learning Full Stack Web Development</p>
+<p align="left">🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad learning Full Stack Web Development</p>
 
-👨‍💻 I'm currently working on (Cheddar)[https://github.com/Ches-ctrl/Cheddar]. You can find the full list of my current projects (here)[https://linktr.ee/charliecheese] and my personal site (here)[https://ches-ctrl.github.io/].
+👨‍💻 I'm currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar). You can find the full list of my current projects [here](https://linktr.ee/charliecheese) and my personal site [here](https://ches-ctrl.github.io/).
 
 📫 Looking to collaborate? Or to start something? Reach out at **charles.cheesman1@gmail.com**.
 
