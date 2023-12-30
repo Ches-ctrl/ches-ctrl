@@ -1,18 +1,12 @@
 ### Hi I'm Charlie 👋 
 
-<p align="left">🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad learning Full Stack Web Development</p>
+🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad learning Full Stack Web Dev
 
-👨‍💻 I'm currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar). You can find the full list of my current projects [here](https://linktr.ee/charliecheese) and my personal site [here](https://ches-ctrl.github.io/).
+👨‍💻 I'm currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar)
 
-📫 Looking to collaborate? Or to start something? Reach out at **charles.cheesman1@gmail.com**.
+🚀 You can find my current projects [here](https://linktr.ee/charliecheese) and my personal site [here](https://ches-ctrl.github.io/)
 
-<h3 align="left">You can find me here 👇</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charliecheesman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charliecheesman" height="30" width="40" /></a>
-<a href="https://dev.to/chesctrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chesctrl" height="30" width="40" /></a>
-<a href="https://twitter.com/charlescheesma1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlescheesma1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15289903/chuck12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chuck12321" height="30" width="40" /></a>
-</p>
+📫 Looking to start something? Reach out at charles.cheesman1@gmail.com
 
 <h3 align="left">I work mainly in:</h3>
 <p align="left"> 
