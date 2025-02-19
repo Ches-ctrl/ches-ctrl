@@ -1,6 +1,6 @@
 ### Hi I'm Charlie 👋 
 
-🌱 I’m a recent [Le Wagon](https://www.lewagon.com) grad working on [Cheddar](https://github.com/Ches-ctrl/Cheddar)
+🌱 I’m working on [Cheddar](https://cheddar.jobs). I love hackathons, playing with the latest AI tech and chatting with other technical Founders.
 
 🚀 You can find my current projects [here](https://linktr.ee/charliecheese) and my personal site [here](https://ches-ctrl.github.io/)
 
