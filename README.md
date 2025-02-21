@@ -1,8 +1,8 @@
 ### Hi I'm Charlie 👋 
 
-🌱 I’m currently fixing job applications over at [Cheddar 🧀](https://cheddar.jobs). If you also want to take LinkedIn off the map then [get in touch](https://www.linkedin.com/in/charliecheesman/).
+🌱 Currently fixing job applications with [Cheddar 🧀](https://cheddar.jobs).
 
-🚀 I love hackathons, testing the latest AI tech, building agentic systems and chatting with other technical Founders.
+🚀 Loves hackathons, AI tech and agentic systems. Get in touch [here](https://www.linkedin.com/in/charliecheesman/).
 
 <h3 align="left">I work mainly in:</h3>
 <p align="left"> 
