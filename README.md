@@ -14,7 +14,7 @@ Past Projects:
 | Vertex AI RAG CVs                 | Universal job board                 | Web / Private API scraping         | Net Zero from Day Zero            |
 | Conversational AI interview prep  | Unified ATS API                     | AgentQL scraping                   | Word → PPT Slide Builder          |
 | Job application simulation MAS    |                                     |                                    | Verti-cal                         |
-| Agentic job applications          |                                     |                                    |                                   |
+| Agentic job applications          |                                     |                                    | Twilio <> WhatsApp                |
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ches-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="ches-ctrl" /> </p>
