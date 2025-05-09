@@ -9,18 +9,12 @@ AI x Engineering:
 Past Projects:
 -
 
-| 🤖 AI                              | 🧑‍💼 Jobs                             | 🌱 Other                          |
-|-----------------------------------|-------------------------------------|-----------------------------------|
-| Vertex AI RAG CVs                 | Universal job board                 | Net Zero from Day Zero            |
-| Conversational AI interview prep  | Unified ATS API                     | Word → PPT Slide Builder          |
-| Job application simulation MAS    | Private API scraping                | Verti-cal&nbsp;&nbsp;&nbsp;&nbsp; |
-| Agentic job applications          | AgentQL scraping                    |                                   |
-
-
-Stack:
-- 
-- NextJS, FastAPI, Rails, React
-- Python, Ruby, TS/JS
+| 🤖 AI                              | 🧑‍💼 Jobs                             | 🔍 Scraping                        | 🌱 Other                          |
+|-----------------------------------|-------------------------------------|------------------------------------|-----------------------------------|
+| Vertex AI RAG CVs                 | Universal job board                 | Web / Private API scraping         | Net Zero from Day Zero            |
+| Conversational AI interview prep  | Unified ATS API                     | AgentQL scraping                   | Word → PPT Slide Builder          |
+| Job application simulation MAS    |                                     |                                    | Verti-cal                         |
+| Agentic job applications          |                                     |                                    |                                   |
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ches-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="ches-ctrl" /> </p>
