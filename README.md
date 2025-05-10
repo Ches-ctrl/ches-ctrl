@@ -15,6 +15,6 @@ Past Projects:
 | Conversational AI interview prep  | Unified ATS API                     | AgentQL scraping                   | Word → PPT Slide Builder                     |
 | Job application simulation MAS    |                                     |                                    | Verti-cal                                    |
 | Agentic job applications          |                                     |                                    | Twilio <> WhatsApp groupchats                |
-|                                   |                                     |                                    | WebRTC                                       |
+|                                   |                                     |                                    | WebRTC videocalling                          |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ches-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="ches-ctrl" /> </p>
