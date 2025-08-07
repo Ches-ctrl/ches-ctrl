@@ -2,7 +2,7 @@ AI x Engineering:
 - 
 - Building agentic AI for businesses at [Moloqo](https://moloqo.com)
 - Founder of [Unicorn Mafia](https://unicrnmafia.com) 🦄
-- Hackathons - [Yay Travel](https://github.com/Prosusware/yay-travel-agent) 🥇+🥉+🥉 [Civy](https://civy.co.uk) 🥇 [InboxSloth](https://www.linkedin.com/posts/charliecheesman_for-inboxsloth-at-speed-ai-build-in-activity-7312422005448855552-LQKr) 🥇 [movehouse.ai](https://x.com/CharlieCheesma1/status/1852074721963315645) 🥈 [Team Mango](https://www.linkedin.com/posts/charliecheesman_founders-hackathon-ai-activity-7304839889009733632-j8aV) 🥉
+- Hackathons - [Yay Travel](https://github.com/Prosusware/yay-travel-agent) 🥇+🥉+🥉 [Civy](https://civy.co.uk) 🥇 [InboxSloth](https://www.linkedin.com/posts/charliecheesman_for-inboxsloth-at-speed-ai-build-in-activity-7312422005448855552-LQKr) 🥇 [movehouse.ai](https://x.com/CharlieCheesma1/status/1852074721963315645) 🥈 [AI in the SDLC](https://github.com/Ches-ctrl/ai-in-the-sdlc) 🥉 [Team Mango](https://www.linkedin.com/posts/charliecheesman_founders-hackathon-ai-activity-7304839889009733632-j8aV) 🥉
 
 
 Past Projects:
